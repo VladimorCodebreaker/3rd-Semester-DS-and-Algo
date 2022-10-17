@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS_and_Algo_3", "DS_and_Algo_3\DS_and_Algo_3.csproj", "{971AEF3E-D754-4D13-A219-7C352C7C6447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971AEF3E-D754-4D13-A219-7C352C7C6447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971AEF3E-D754-4D13-A219-7C352C7C6447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971AEF3E-D754-4D13-A219-7C352C7C6447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971AEF3E-D754-4D13-A219-7C352C7C6447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B97C7D9C-809F-44DA-BDE7-739261E6369A}
+	EndGlobalSection
+EndGlobal
