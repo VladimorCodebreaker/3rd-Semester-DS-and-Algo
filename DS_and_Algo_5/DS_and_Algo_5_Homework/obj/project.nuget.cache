@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OV/F+cYJnrETd6RdnsFvFgW4L/YST8sXUHaYhxheQWdubrdPS4odyT/8dAd+bZLc7CVn8G4mk1mYSskvjbWv6A==",
+  "success": true,
+  "projectFilePath": "/Users/vladimirschmadlak/Documents/Code/University/Semester 3/DS and Algo/DS_and_Algo_5/DS_and_Algo_5_Homework/DS_and_Algo_5_Homework.csproj",
+  "expectedPackageFiles": [
+    "/Users/vladimirschmadlak/.nuget/packages/morelinq/3.3.2/morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
